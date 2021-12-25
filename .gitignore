@@ -1,1 +1,5 @@
+calcvenv
 calcvenv/*
+calcapp/__pycache__
+calculator/__pycache__
+calcapp/migrations/__pycache__
